@@ -1,0 +1,15 @@
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\bin\Debug\net6.0\Exapmle_01.exe
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\bin\Debug\net6.0\Exapmle_01.deps.json
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\bin\Debug\net6.0\Exapmle_01.runtimeconfig.json
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\bin\Debug\net6.0\Exapmle_01.dll
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\bin\Debug\net6.0\Exapmle_01.pdb
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.csproj.AssemblyReference.cache
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.AssemblyInfoInputs.cache
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.AssemblyInfo.cs
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.csproj.CoreCompileInputs.cache
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.dll
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\refint\Exapmle_01.dll
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.pdb
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\Exapmle_01.genruntimeconfig.cache
+D:\Дима\GeekBrains\Все заново_2023\Знакомство с языками программирования\Lection_1\Exapmle_01\obj\Debug\net6.0\ref\Exapmle_01.dll
